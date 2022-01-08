@@ -36,7 +36,10 @@ we tried to classify sentments of twitter texts given by any user. If anyone  We
     matplotlib
     seaborn
     sklearn
-    
+ 
+# Dataset used for training 
+https://www.kaggle.com/stoicstatic/twitter-sentiment-analysis-for-beginners
+
 # Preprocessing techniques
     Count vectorizer 
     TF-IDF vectorizer
